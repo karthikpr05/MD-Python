@@ -13,13 +13,23 @@
 # greet("Karthik")
 
 
-def student(name , age):
-    print(name)
-    print(age)
+# def student(name , age):
+#     print(name)
+#     print(age)
 
-student("Karthik",35)
-student("Rajani",34)
-student("Sushrut",7)
-student("Raghuchandra", 70)
-student("Chitra",68)
+# student("Karthik",35)
+# student("Rajani",34)
+# student("Sushrut",7)
+# student("Raghuchandra", 70)
+# student("Chitra",68)
 
+
+def add(a,b):
+    print(a+b)
+result = add(3,2)
+print(result)
+
+def add_return(a,b):
+    return a + b
+result = add_return(5,5)
+print(result)

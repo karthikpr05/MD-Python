@@ -1,0 +1,3 @@
+#Is the process of creating , writing , updating and deleting files  using python.
+#You can store two types of files. Text files and Binary files[images,pdf etc].
+#r -> read , w -> write , a -> append , x-> create , rb -> read binary , wb -> write binary

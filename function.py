@@ -24,12 +24,12 @@
 # student("Chitra",68)
 
 
-def add(a,b):
-    print(a+b)
-result = add(3,2)
-print(result)
+# def add(a,b):
+#     print(a+b)
+# result = add(3,2)
+# print(result)
 
-def add_return(a,b):
-    return a + b
-result = add_return(5,5)
-print(result)
+# def add_return(a,b):
+#     return a + b
+# result = add_return(5,5)
+# print(result)
